@@ -1,3 +1,6 @@
+![Language](https://img.shields.io/badge/language-C++-blue)
+![Status](https://img.shields.io/badge/status-learning-brightgreen)
+
 A console-based C++ application built to practice core programming fundamentals such as functions, arrays, control flow, and algorithmic reasoning.
 -------------------------------------------
 
