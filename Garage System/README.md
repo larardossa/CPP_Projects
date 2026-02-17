@@ -49,6 +49,3 @@ Features:
 - Destructor to prevent memory leaks
 
 --------------------------------------------------------------------
-
-Compile with:
-
